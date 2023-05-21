@@ -1,4 +1,4 @@
-# MaruIyagi-Website
+# Maru Iyagi Site
 
 ![](https://github.com/ThisIsNotJustin/MaruIyagi-Website/blob/main/maruwebsite/home.png)
 
